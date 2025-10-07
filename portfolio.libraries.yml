@@ -1,0 +1,19 @@
+global-styling:
+  version: 1.0
+  css:
+    theme:
+      css/style.css: {}
+  js:
+    js/style.js: {}
+  dependencies:
+    - core/jquery
+
+# global-styling:
+#   version: 1.0
+#   css:
+#     themes:
+#       custom/my-theme/style.css: {}
+#   js:
+#     custom/my-theme/style.js: {}
+#   dependencies:
+#     - core/jquery
