@@ -1,0 +1,34 @@
+name: My Portfolio Theme
+type: theme
+description: 'This is My Portfolio Theme'
+core_version_requirement: ^9 || ^10  || ^11
+base theme: false
+
+libraries:
+  - portfolio/global-styling
+
+regions:
+  header: Header
+  hero: Hero
+  content: Content
+  sidebar: Sidebar
+  footer: Footer
+
+# name: Theme
+# type: theme
+# base theme: false
+# description: 'This is My Portfolio Theme'
+# package: other
+# core: 8.x
+# core_version_requirement: ^9 || ^10
+
+# libraries:
+#   - my-theme/global-styling
+
+
+# regions:
+#   header: Header
+#   hero: Hero
+#   content: Content
+#   sidebar: Sidebar
+#   footer: Footer
